@@ -138,7 +138,6 @@ jupyter notebook
 ## 👨‍💻 Author
 
 **Uchchhash Sarkar**
-Organization : Quantum.AI, Bangladesh
 
 * [LinkedIn](https://www.linkedin.com/in/uchchhash)
 * [GitHub](https://github.com/uchchhash)
