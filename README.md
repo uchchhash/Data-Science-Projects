@@ -84,3 +84,69 @@ Predict survival outcomes for Titanic passengers based on features such as age, 
 
 ## 🗂 Repository Structure
 
+```
+
+ML-Prediction-Projects/
+├── Regression Data Analysis (Bike sharing prediction).ipynb
+├── Regression model (Bike sharing prediction).ipynb
+├── Data Analysis.ipynb
+├── Data Modeling.ipynb
+├── README.md
+└── requirements.txt
+
+````
+
+---
+
+## ▶️ How to Run the Notebooks
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/yourusername/ML-Prediction-Projects.git
+cd ML-Prediction-Projects
+````
+
+2. **(Optional) Create a virtual environment**
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Launch the Jupyter notebooks**
+
+```bash
+jupyter notebook
+```
+
+---
+
+## ✅ Results
+
+* Successfully built predictive models with interpretable results.
+* Applied both regression and classification algorithms on cleaned, preprocessed datasets.
+* Compared models and identified the best-performing ones using relevant evaluation metrics.
+
+---
+
+## 👨‍💻 Author
+
+**Uchchhash Sarkar**
+Organization : Quantum.AI, Bangladesh
+
+* [LinkedIn](https://www.linkedin.com/in/uchchhash)
+* [GitHub](https://github.com/uchchhash)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+```
